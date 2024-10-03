@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.navbar{
+    width: 100%;
+    height: 50px;
+    background-color: darkblue;
+   
+    
+    gap: 12px;
+}
+.aylana{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: url(./nis.jpg) no-repeat center/cover;
+}
+.sch{
+    margin-top: -100px;
+    margin-left: 60px;
+   
+    
+    
+}
+.pp{
+    gap: 20px;
+    font-family: monospace;
+}
+.banner{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+}
+.cv{
+    text-align: center;
+    font-size: 100px;
+    margin: auto;
+    font-family: cursive;
+
+    
+}
+
+
